@@ -2,6 +2,8 @@ class Program
 {
 	public static void Main()
 	{
-		Console.WriteLine("Hello World");
+		int x = 1;
+		int y = 2;
+		Console.WriteLine($"Hello World {x + y}");
 	}
 }
